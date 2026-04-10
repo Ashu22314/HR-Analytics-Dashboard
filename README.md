@@ -34,7 +34,7 @@ The dataset used in this project includes:
 * Transaction details
 * Sales / Revenue information
 
-*(You can customize this section based on your dataset)*
+
 
 ---
 
